@@ -6,3 +6,5 @@ Key Steps Involved:
 - Vectorizing texts and feature engineering
 - Training and tuning machine learning models
 - Model evaluation
+
+<img src='Images/sms_distribution.png'>

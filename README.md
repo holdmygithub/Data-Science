@@ -7,6 +7,7 @@ This repository is a collection of my data science projects.
 Key Steps Involved:
 
 - Exploratory data analysis using PySpark
+- PCA analysis, feature engineering
 - Building and tuning Machine Learning models
 - Deployment using StreamLit
 - Containerization using Docker

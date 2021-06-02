@@ -7,12 +7,13 @@ This repository is a collection of my data science projects.
 Key Steps Involved:
 
 - Exploratory data analysis using PySpark
+- PCA Analysis, feature engineering
 - Building and tuning Machine Learning models
 - Deployment using StreamLit
 - Containerization using Docker
 - Bash Script to orchestrate Docker containerization
 
-<img src='authenticNote.png'>
+<img src='Images/authenticNote.png'>
 
 #### Instructions for docker containerization
 
@@ -24,3 +25,4 @@ b) Run "run_app.sh"
 
 	./run_app.sh
 
+<img src='Images/pca.png'>
