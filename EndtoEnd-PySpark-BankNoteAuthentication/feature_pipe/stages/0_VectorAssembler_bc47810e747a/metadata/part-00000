@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1622399019395,"sparkVersion":"3.1.1","uid":"VectorAssembler_bc47810e747a","paramMap":{"outputCol":"features","inputCols":["variance","skewness","curtosis","entropy"]},"defaultParamMap":{"outputCol":"VectorAssembler_bc47810e747a__output","handleInvalid":"error"}}
