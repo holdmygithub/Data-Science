@@ -8,5 +8,12 @@ Key Steps Involved:
 - Feature correlations
 - Statistical tests
 
+<figure>
 <img src='Images/uber1.png'>
+<figcaption> Uber pickups vs Time plot </figcaption>
+</figure>
+<figure>
 <img src='Images/uber_heatmap.png'>
+<figcaption> Uber pickups heatmap </figcaption>
+</figure>
+
