@@ -3,7 +3,7 @@
 Key Steps Involved:
 
 - Exploratory data analysis using PySpark
-- PCA Analysis, feature engineering
+- PCA analysis, feature engineering
 - Building and tuning Machine Learning models
 - Deployment using StreamLit
 - Containerization using Docker
