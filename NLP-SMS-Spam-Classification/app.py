@@ -8,9 +8,20 @@ import string
 import nltk
 from scipy.sparse import csr_matrix
 import pandas as pd
+
 def get_length(df):
     df = df.apply(len)
     return csr_matrix(df.to_numpy().reshape(-1,1))
+
+def message_cleaner(message):
+    cleaned_message = []
+    for word in word_tokenize(message.lower()):
+        word = re.sub('[^a-zA-Z]','',word)
+        if(word == ''):
+            continue
+        if(word not in remove_list):
+            cleaned_message.append(porterstemmer.stem(word))
+    return cleaned_message
 
 nltk.download('stopwords')
 nltk.download('punkt')
@@ -29,10 +40,12 @@ def message_cleaner(message):
             cleaned_message.append(porterstemmer.stem(word))
     return cleaned_message
 
-model = pkl.load(open('models_features/model.sav','rb'))
+model = pkl.load(open('model.sav','rb'))
+
 print(type(model))
-feature_pipe = pkl.load(open('models_features/feature_pipe.sav','rb'))
+feature_pipe = pkl.load(open('feature_pipe.sav','rb'))
 print(type(feature_pipe))
+
 @app.route('/')
 def test():
     return render_template('index.html')
@@ -46,5 +59,6 @@ def classify():
     else:
         predict = 'spam'
     return f"The message is {predict}"
+
 if __name__ == '__main__':
     app.run()
