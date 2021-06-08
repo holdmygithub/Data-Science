@@ -13,7 +13,7 @@ Key Steps Involved:
 - Deployment using StreamLit
 - Containerization using Docker
 - Bash Script to orchestrate Docker containerization
-### 2) [SMS Spam Classification (End to End Project, Natural Language Processing)](https://github.com/holdmygithub/Data-Science/tree/master/NLP-SMS-Spam-Classification)
+### 2) [SMS Spam Classification (End to End Project, Natural Language Processing)](https://github.com/holdmygithub/Data-Science/tree/master/End-to-End-NLP-SMS-Spam-Classification)
 **Objective: Predicting whether a given SMS is spam**
 
 Key Steps Involved:
