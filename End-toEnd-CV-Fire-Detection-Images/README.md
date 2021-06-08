@@ -1,4 +1,4 @@
-## 1) [Fire Detection from images (End to End Project, Image Classification)](https://github.com/holdmygithub/Data-Science/tree/master/CV-Fire-Detection-Images)
+## 1) [Fire Detection from images (End to End Project, Image Classification)](https://github.com/holdmygithub/Data-Science/tree/master/End-toEnd-CV-Fire-Detection-Images)
 **Objective: Predicting whether a given image contains fire or not.**
 Key Steps Involved:
 

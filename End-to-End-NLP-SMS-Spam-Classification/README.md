@@ -7,5 +7,6 @@ Key Steps Involved:
 - Vectorizing texts and feature engineering
 - Training and tuning machine learning models
 - Model evaluation
+- Model deployment using flask
 
 <img src='Images/sms_distribution.png'>
