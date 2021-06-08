@@ -21,18 +21,10 @@ Key Steps Involved:
 - Text cleaning and preparation
 - Vectorizing texts and feature engineering
 - Training and tuning machine learning models
- - Model evaluation
-### 3) [Uber_Data_Analysis-EDA](https://github.com/holdmygithub/Data-Science/tree/master/Uber_Data_Analysis-EDA "Uber_Data_Analysis-EDA")
-**Objective: Exploratory data analysis of uber pickups in new york city**
+- Model evaluation
+- Model deployment using flask 
 
-Key Steps Involved:
-
-- Exploratory data analysis, Pickup pattern identification
-- Extensive data visualization
-- Feature correlations
-- Statistical tests
-
-### 4) [Fire Detection from images (End to End Project, Image Classification)](https://github.com/holdmygithub/Data-Science/tree/master/End-toEnd-CV-Fire-Detection-Images)
+### 3) [Fire Detection from images (End to End Project, Image Classification)](https://github.com/holdmygithub/Data-Science/tree/master/End-toEnd-CV-Fire-Detection-Images)
 **Objective: Predicting whether a given image contains fire or not.**
 Key Steps Involved:
 
@@ -44,3 +36,13 @@ Key Steps Involved:
 - Model evaluation
 - Deployment using StreamLit
 - Containerization using Docker
+
+### 4) [Uber_Data_Analysis-EDA](https://github.com/holdmygithub/Data-Science/tree/master/Uber_Data_Analysis-EDA "Uber_Data_Analysis-EDA")
+**Objective: Exploratory data analysis of uber pickups in new york city**
+
+Key Steps Involved:
+
+- Exploratory data analysis, Pickup pattern identification
+- Extensive data visualization
+- Feature correlations
+- Statistical tests
