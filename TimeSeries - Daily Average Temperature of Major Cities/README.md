@@ -13,3 +13,4 @@ Key Steps Involved:
 - Seasonal ARIMA Model
 - Model predictions
 
+Data Source: https://www.kaggle.com/holdmykaggle/daily-average-temperature-of-cities-time-series
