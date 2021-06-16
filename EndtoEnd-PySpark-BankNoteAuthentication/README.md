@@ -22,3 +22,5 @@ b) Run "run_app.sh"
 	./run_app.sh
 
 <img src='Images/pca.png'>
+
+Data Source: https://www.kaggle.com/ritesaluja/bank-note-authentication-uci-data
