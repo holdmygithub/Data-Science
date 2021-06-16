@@ -12,3 +12,5 @@ Key Steps Involved:
 - Containerization using Docker
 
 <img src='Images/sreenshot_deploy.png'>
+
+Data Source: https://www.kaggle.com/phylake1337/fire-dataset
