@@ -2,6 +2,7 @@
 **Objective: To analyse the time series data and forecast temperatures**
 
 <span style="color:red">Ipynb file is large and may fail to load in github. Please refresh.</span>
+
 Key Steps Involved:
 
 - Exploratory data analysis
