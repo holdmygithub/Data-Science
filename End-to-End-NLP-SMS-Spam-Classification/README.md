@@ -10,3 +10,5 @@ Key Steps Involved:
 - Model deployment using flask
 
 <img src='Images/sms_distribution.png'>
+
+Data Source: https://archive.ics.uci.edu/ml/datasets/sms+spam+collection
