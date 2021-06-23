@@ -1,3 +1,6 @@
+IPYNB viewer not loading? View it here: (https://nbviewer.jupyter.org/github/holdmygithub/Data-Science/blob/master/Uber_Data_Analysis-EDA/Uber_dataset_ashwin.ipynb)
+**Caution: File is large, the above link may take 6-8 seconds to load.**
+
 ### 3) [Uber_Data_Analysis-EDA](https://github.com/holdmygithub/Data-Science/tree/master/Uber_Data_Analysis-EDA "Uber_Data_Analysis-EDA")
 **Objective: Exploratory data analysis of uber pickups in new york city**
 <span style="color:red">Ipynb file is large and may fail to load in github. Please refresh or [view in Kaggle](https://www.kaggle.com/holdmykaggle/uber-data-analysis)</span>
