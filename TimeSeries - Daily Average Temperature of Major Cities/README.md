@@ -1,3 +1,5 @@
+IPYNB viewer not loading? View it here: (https://nbviewer.jupyter.org/github/holdmygithub/Data-Science/blob/master/TimeSeries%20-%20Daily%20Average%20Temperature%20of%20Major%20Cities/daily-average-temperature-of-cities-time-series.ipynb)
+
 ### 5) [TimeSeriesAnalysis - Daily Average Temperature of Major Cities](https://github.com/holdmygithub/Data-Science/tree/master/TimeSeries%20-%20Daily%20Average%20Temperature%20of%20Major%20Cities)
 **Objective: To analyse the time series data and forecast temperatures**
 
