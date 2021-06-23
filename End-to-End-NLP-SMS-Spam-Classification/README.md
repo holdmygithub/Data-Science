@@ -1,3 +1,5 @@
+IPYNB File not loading? View it here: (https://nbviewer.jupyter.org/github/holdmygithub/Data-Science/blob/master/End-to-End-NLP-SMS-Spam-Classification/sms-spam-analysis.ipynb)
+
 ### 2) [SMS Spam Classification (End to End Project, Natural Language Processing)](https://github.com/holdmygithub/Data-Science/tree/master/End-to-End-NLP-SMS-Spam-Classification)
 **Objective: Predicting whether a given SMS is spam**
 
