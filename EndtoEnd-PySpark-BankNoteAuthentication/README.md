@@ -1,3 +1,5 @@
+IPYNB viewer not loading? View it here: (https://nbviewer.jupyter.org/github/holdmygithub/Data-Science/blob/master/EndtoEnd-PySpark-BankNoteAuthentication/bank-note-authentication-pysparkml-streamlit.ipynb)
+
 ## [Bank Note Authentication (End to End Project, PySpark)](https://github.com/holdmygithub/Data-Science/tree/master/EndtoEnd-PySpark-BankNoteAuthentication)
 **Objective: Predicting whether a given bank note is fake or authentic.**
 Key Steps Involved:
