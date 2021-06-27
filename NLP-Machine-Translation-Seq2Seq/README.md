@@ -2,4 +2,3 @@ IPYNB File not loading? View it here: https://nbviewer.jupyter.org/github/holdmy
 # Machine Translation using Seq2Seq model (English to Spanish)
 
 - Uses word2vec from spaCy
-- 
