@@ -1,4 +1,4 @@
-IPYNB viewer not loading? View it here: (https://nbviewer.jupyter.org/github/holdmygithub/Data-Science/blob/master/End-toEnd-CV-Fire-Detection-Images/fire-detection-in-images.ipynb)
+IPYNB viewer not loading? View it here: (https://nbviewer.jupyter.org/github/holdmygithub/Data-Science/blob/master/CV-End-toEnd-Fire-Detection-Images/fire-detection-in-images.ipynb)
 ## 1) [Fire Detection from images (End to End Project, Image Classification)](https://github.com/holdmygithub/Data-Science/tree/master/End-toEnd-CV-Fire-Detection-Images)
 **Objective: Predicting whether a given image contains fire or not.**
 Key Steps Involved:
