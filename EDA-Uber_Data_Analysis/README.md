@@ -1,4 +1,4 @@
-IPYNB viewer not loading? View it here: (https://nbviewer.jupyter.org/github/holdmygithub/Data-Science/blob/master/Uber_Data_Analysis-EDA/Uber_dataset_ashwin.ipynb)
+IPYNB viewer not loading? View it here: (https://github.com/holdmygithub/Data-Science/blob/master/EDA-Uber_Data_Analysis/Uber_dataset_ashwin.ipynb)
 **Caution: File is large, the above link may take 6-8 seconds to load.**
 
 ### 3) [Uber_Data_Analysis-EDA](https://github.com/holdmygithub/Data-Science/tree/master/Uber_Data_Analysis-EDA "Uber_Data_Analysis-EDA")
